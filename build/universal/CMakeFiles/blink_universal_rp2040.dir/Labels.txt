@@ -1,0 +1,13 @@
+# Target labels
+ blink_universal_rp2040
+# Source files and their labels
+C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/blink_universal_rp2040
+C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/blink_universal_rp2040.rule
+C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/blink_universal_rp2040-complete.rule
+C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2040-stamp/blink_universal_rp2040-build.rule
+C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2040-stamp/blink_universal_rp2040-configure.rule
+C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2040-stamp/blink_universal_rp2040-download.rule
+C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2040-stamp/blink_universal_rp2040-install.rule
+C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2040-stamp/blink_universal_rp2040-mkdir.rule
+C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2040-stamp/blink_universal_rp2040-patch.rule
+C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2040-stamp/blink_universal_rp2040-update.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/hello_universal_rp2040"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/hello_universal_rp2040.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/hello_universal_rp2040-complete.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2040-stamp/hello_universal_rp2040-build.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2040-stamp/hello_universal_rp2040-configure.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2040-stamp/hello_universal_rp2040-download.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2040-stamp/hello_universal_rp2040-install.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2040-stamp/hello_universal_rp2040-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2040-stamp/hello_universal_rp2040-patch.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2040-stamp/hello_universal_rp2040-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hello_universal_rp2040"
+		],
+		"name" : "hello_universal_rp2040"
+	}
+}

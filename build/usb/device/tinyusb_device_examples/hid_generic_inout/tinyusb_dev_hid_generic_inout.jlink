@@ -1,0 +1,5 @@
+halt
+loadfile C:/Users/agras/pico/pico-examples/build/usb/device/tinyusb_device_examples/hid_generic_inout/tinyusb_dev_hid_generic_inout.elf
+r
+go
+exit

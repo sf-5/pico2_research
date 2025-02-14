@@ -1,0 +1,5 @@
+halt
+loadfile C:/Users/agras/pico/pico-examples/build/usb/device/tinyusb_device_examples/cdc_msc/tinyusb_dev_cdc_msc.elf
+r
+go
+exit

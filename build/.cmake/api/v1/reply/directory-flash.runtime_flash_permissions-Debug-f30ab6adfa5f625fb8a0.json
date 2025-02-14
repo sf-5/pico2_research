@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "flash/runtime_flash_permissions",
+		"source" : "flash/runtime_flash_permissions"
+	}
+}

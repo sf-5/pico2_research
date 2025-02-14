@@ -1,0 +1,5 @@
+halt
+loadfile C:/Users/agras/pico/pico-examples/build/usb/device/tinyusb_device_examples/dynamic_configuration/tinyusb_dev_dynamic_configuration.elf
+r
+go
+exit

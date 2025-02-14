@@ -1,0 +1,96 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"family_flash_jlink",
+			"family_configure_target",
+			"family_configure_host_example"
+		],
+		"files" : 
+		[
+			"C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/hw/bsp/family_support.cmake",
+			"C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/hw/bsp/rp2040/family.cmake",
+			"C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/examples/host/cdc_msc_hid/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 35,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 240,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 202,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 416,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "tinyusb_host_cdc_msc_hid::@426eb1cc61bd55abbfeb"
+		}
+	],
+	"id" : "tinyusb_host_cdc_msc_hid-jlink::@426eb1cc61bd55abbfeb",
+	"name" : "tinyusb_host_cdc_msc_hid-jlink",
+	"paths" : 
+	{
+		"build" : "usb/host/tinyusb_host_examples/cdc_msc_hid",
+		"source" : "C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/examples/host/cdc_msc_hid"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/usb/host/tinyusb_host_examples/cdc_msc_hid/CMakeFiles/tinyusb_host_cdc_msc_hid-jlink",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/usb/host/tinyusb_host_examples/cdc_msc_hid/CMakeFiles/tinyusb_host_cdc_msc_hid-jlink.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

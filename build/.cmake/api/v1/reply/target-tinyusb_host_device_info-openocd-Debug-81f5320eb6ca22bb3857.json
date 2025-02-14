@@ -1,0 +1,96 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"family_flash_openocd",
+			"family_configure_target",
+			"family_configure_host_example"
+		],
+		"files" : 
+		[
+			"C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/hw/bsp/family_support.cmake",
+			"C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/hw/bsp/rp2040/family.cmake",
+			"C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/examples/host/device_info/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 240,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 201,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 470,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "tinyusb_host_device_info::@bde6b5b4f343e1da65aa"
+		}
+	],
+	"id" : "tinyusb_host_device_info-openocd::@bde6b5b4f343e1da65aa",
+	"name" : "tinyusb_host_device_info-openocd",
+	"paths" : 
+	{
+		"build" : "usb/host/tinyusb_host_examples/device_info",
+		"source" : "C:/Users/agras/.pico-sdk/sdk/2.1.0/lib/tinyusb/examples/host/device_info"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/usb/host/tinyusb_host_examples/device_info/CMakeFiles/tinyusb_host_device_info-openocd",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/usb/host/tinyusb_host_examples/device_info/CMakeFiles/tinyusb_host_device_info-openocd.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

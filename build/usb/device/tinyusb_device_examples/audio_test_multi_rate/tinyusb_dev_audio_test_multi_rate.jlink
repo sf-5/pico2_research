@@ -1,0 +1,5 @@
+halt
+loadfile C:/Users/agras/pico/pico-examples/build/usb/device/tinyusb_device_examples/audio_test_multi_rate/tinyusb_dev_audio_test_multi_rate.elf
+r
+go
+exit

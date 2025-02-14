@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/hello_universal_rp2350-riscv"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/hello_universal_rp2350-riscv.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/hello_universal_rp2350-riscv-complete.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2350-riscv-stamp/hello_universal_rp2350-riscv-build.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2350-riscv-stamp/hello_universal_rp2350-riscv-configure.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2350-riscv-stamp/hello_universal_rp2350-riscv-download.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2350-riscv-stamp/hello_universal_rp2350-riscv-install.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2350-riscv-stamp/hello_universal_rp2350-riscv-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2350-riscv-stamp/hello_universal_rp2350-riscv-patch.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/hello_universal_rp2350-riscv-stamp/hello_universal_rp2350-riscv-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hello_universal_rp2350-riscv"
+		],
+		"name" : "hello_universal_rp2350-riscv"
+	}
+}

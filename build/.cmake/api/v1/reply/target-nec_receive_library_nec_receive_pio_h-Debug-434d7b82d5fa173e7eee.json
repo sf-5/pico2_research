@@ -1,0 +1,81 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"pico_generate_pio_header"
+		],
+		"files" : 
+		[
+			"C:/Users/agras/.pico-sdk/sdk/2.1.0/tools/CMakeLists.txt",
+			"pio/ir_nec/nec_receive_library/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 182,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "nec_receive_library_nec_receive_pio_h::@54d227d48840ea428146",
+	"name" : "nec_receive_library_nec_receive_pio_h",
+	"paths" : 
+	{
+		"build" : "pio/ir_nec/nec_receive_library",
+		"source" : "pio/ir_nec/nec_receive_library"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "build/pio/ir_nec/nec_receive_library/CMakeFiles/nec_receive_library_nec_receive_pio_h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/pio/ir_nec/nec_receive_library/CMakeFiles/nec_receive_library_nec_receive_pio_h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/pio/ir_nec/nec_receive_library/nec_receive.pio.h.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/blink_universal_rp2350-arm-s"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/blink_universal_rp2350-arm-s.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/CMakeFiles/blink_universal_rp2350-arm-s-complete.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2350-arm-s-stamp/blink_universal_rp2350-arm-s-build.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2350-arm-s-stamp/blink_universal_rp2350-arm-s-configure.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2350-arm-s-stamp/blink_universal_rp2350-arm-s-download.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2350-arm-s-stamp/blink_universal_rp2350-arm-s-install.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2350-arm-s-stamp/blink_universal_rp2350-arm-s-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2350-arm-s-stamp/blink_universal_rp2350-arm-s-patch.rule"
+		},
+		{
+			"file" : "C:/Users/agras/pico/pico-examples/build/universal/pioasm/src/blink_universal_rp2350-arm-s-stamp/blink_universal_rp2350-arm-s-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"blink_universal_rp2350-arm-s"
+		],
+		"name" : "blink_universal_rp2350-arm-s"
+	}
+}
